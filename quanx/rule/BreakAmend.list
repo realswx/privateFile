@@ -11,7 +11,7 @@
 # 样例可参见 https://raw.githubusercontent.com/crossutility/Quantumult-X/master/filter.snippet
 
 
-# Proxy规则修正
+# > Proxy规则修正
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,openaccess.thecvf.com
 DOMAIN-SUFFIX,ieee.org
@@ -21,6 +21,13 @@ DOMAIN-SUFFIX,arxiv.org
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,duangks.com
+DOMAIN-SUFFIX,paperswithcode.com
+DOMAIN-SUFFIX,ijcai.org
+DOMAIN-SUFFIX,semanticscholar.org
+DOMAIN-SUFFIX,ojs.aaai.org
+DOMAIN-SUFFIX,news.ycombinator.com
+DOMAIN-SUFFIX,medium.com
 # > Github
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
@@ -52,7 +59,7 @@ DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-KEYWORD,github
-#Docker
+# > Docker
 DOMAIN,d1q6f0aelx0por.cloudfront.net
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net
 DOMAIN,d36jcksde1wxzq.cloudfront.net
