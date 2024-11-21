@@ -28,6 +28,19 @@ DOMAIN-SUFFIX,semanticscholar.org
 DOMAIN-SUFFIX,ojs.aaai.org
 DOMAIN-SUFFIX,news.ycombinator.com
 DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,mirrormedia.mg
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,i.redd.it
+DOMAIN-SUFFIX,z-lib.fm
+DOMAIN-SUFFIX,usercentrics.eu
+DOMAIN-SUFFIX,prismic.io
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,tedcdn.com
+DOMAIN-SUFFIX,ted.com
+DOMAIN-SUFFIX,logseq.com
+
+
 # > Github
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
