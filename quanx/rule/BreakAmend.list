@@ -13,20 +13,9 @@
 
 # > Proxy规则修正
 DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,openaccess.thecvf.com
-DOMAIN-SUFFIX,ieee.org
-DOMAIN-SUFFIX,osano.com
-DOMAIN-SUFFIX,springer.com
-DOMAIN-SUFFIX,arxiv.org
-DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,duangks.com
-DOMAIN-SUFFIX,paperswithcode.com
-DOMAIN-SUFFIX,ijcai.org
-DOMAIN-SUFFIX,semanticscholar.org
-DOMAIN-SUFFIX,ojs.aaai.org
-DOMAIN-SUFFIX,news.ycombinator.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,mirrormedia.mg
@@ -39,8 +28,29 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,tedcdn.com
 DOMAIN-SUFFIX,ted.com
 DOMAIN-SUFFIX,logseq.com
+DOMAIN-SUFFIX,infosec.exchange
+DOMAIN-SUFFIX,nostrimg.com
+DOMAIN-SUFFIX,nostr.build
+DOMAIN-SUFFIX,iris.to
+DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,cdn.jsdelivr.net
 
 
+# > 学术
+DOMAIN-SUFFIX,openaccess.thecvf.com
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,osano.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,paperswithcode.com
+DOMAIN-SUFFIX,ijcai.org
+DOMAIN-SUFFIX,semanticscholar.org
+DOMAIN-SUFFIX,ojs.aaai.org
+DOMAIN-SUFFIX,news.ycombinator.com
+DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,neurips.cc
 
 # > Docker
 DOMAIN,d1q6f0aelx0por.cloudfront.net
