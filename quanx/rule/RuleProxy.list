@@ -35,6 +35,10 @@ DOMAIN-SUFFIX,iris.to
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,arc.net
+DOMAIN-SUFFIX,diabrowser.engineering
+DOMAIN-SUFFIX,moapp.me
+
 
 
 # > 学术
