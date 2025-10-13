@@ -38,7 +38,19 @@ DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,moapp.me
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,openreview.net
 
+
+# > 机场
+DOMAIN-SUFFIX,fastlink9.cc
+DOMAIN-SUFFIX,fastlink.digital
+DOMAIN-SUFFIX,mojie.me
+DOMAIN-SUFFIX,xfltd.org
+DOMAIN-SUFFIX,xfltd.net
+DOMAIN-SUFFIX,xfltd.win
+DOMAIN-SUFFIX,xfltd.cc
+DOMAIN-SUFFIX,xftld.org
 
 
 # > 学术
