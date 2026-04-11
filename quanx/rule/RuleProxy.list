@@ -39,19 +39,15 @@ DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,moapp.me
 DOMAIN-SUFFIX,gitbook.io
-DOMAIN-SUFFIX,openreview.net
+DOMAIN-SUFFIX,sybo.net
 
 
 # > 机场
 DOMAIN-SUFFIX,fastlink9.cc
-DOMAIN-SUFFIX,fastlink.digital
 DOMAIN-SUFFIX,mojie.me
-DOMAIN-SUFFIX,xfltd.org
-DOMAIN-SUFFIX,xfltd.net
-DOMAIN-SUFFIX,xfltd.win
-DOMAIN-SUFFIX,xfltd.cc
-DOMAIN-SUFFIX,xftld.org
-
+DOMAIN,xftld.org
+DOMAIN-SUFFIX,clashx.pro
+DOMAIN-SUFFIX,guatizi.com
 
 # > 学术
 DOMAIN-SUFFIX,openaccess.thecvf.com
@@ -67,6 +63,7 @@ DOMAIN-SUFFIX,ojs.aaai.org
 DOMAIN-SUFFIX,news.ycombinator.com
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,neurips.cc
+DOMAIN-SUFFIX,openreview.net
 
 # > Docker
 DOMAIN,d1q6f0aelx0por.cloudfront.net
