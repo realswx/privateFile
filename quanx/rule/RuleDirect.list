@@ -12,7 +12,6 @@
 
 
 # > 直连规则修正
-DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,gequhai.net
 DOMAIN-SUFFIX,zh.followlyrics.com
 DOMAIN,my.xfltd.org
