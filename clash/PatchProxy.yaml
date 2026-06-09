@@ -5,6 +5,8 @@
 
 payload:
   - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,imgurinc.com
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,reddit.com
