@@ -1,2 +1,92 @@
 # NAME: PatchProxy 规则补丁
 # AUTHOR: realswx
+# REPO: https://github.com/realswx/privateFile
+# UPDATED: 2026-06-09
+
+payload:
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,wikipedia.org
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,i.redd.it
+  - DOMAIN-SUFFIX,z-lib.fm
+  - DOMAIN-SUFFIX,usercentrics.eu
+  - DOMAIN-SUFFIX,prismic.io
+  - DOMAIN-SUFFIX,tedcdn.com
+  - DOMAIN-SUFFIX,ted.com
+  - DOMAIN-SUFFIX,logseq.com
+  - DOMAIN-SUFFIX,iris.to
+  - DOMAIN-SUFFIX,threads.com
+  - DOMAIN-SUFFIX,bsky.app
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,jsdelivr.com
+  - DOMAIN-SUFFIX,arc.net
+  - DOMAIN-SUFFIX,moapp.me
+  - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,gitbook.com
+  
+  
+  
+  # 机场
+  - DOMAIN-SUFFIX,mojie.me
+  - DOMAIN,xftld.org
+  - DOMAIN-SUFFIX,clashx.pro
+  - DOMAIN-SUFFIX,guatizi.com
+  - DOMAIN-SUFFIX,duangks.com
+  - DOMAIN-SUFFIX,aijichang.com
+  
+  # > 学术
+  - DOMAIN-SUFFIX,openaccess.thecvf.com
+  - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,osano.com
+  - DOMAIN-SUFFIX,springer.com
+  - DOMAIN-SUFFIX,arxiv.org
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,paperswithcode.com
+  - DOMAIN-SUFFIX,ijcai.org
+  - DOMAIN-SUFFIX,semanticscholar.org
+  - DOMAIN-SUFFIX,ojs.aaai.org
+  - DOMAIN-SUFFIX,news.ycombinator.com
+  - DOMAIN-SUFFIX,annas-archive.org
+  - DOMAIN-SUFFIX,neurips.cc
+  - DOMAIN-SUFFIX,openreview.net
+  
+  # > Docker
+  - DOMAIN,d1q6f0aelx0por.cloudfront.net
+  - DOMAIN,d2wy8f7a9ursnm.cloudfront.net
+  - DOMAIN,d36jcksde1wxzq.cloudfront.net
+  - DOMAIN-SUFFIX,compose-spec.io
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,dockerhub.com
+
+  # > Alphabet
+  - DOMAIN-SUFFIX,go.dev
+  - DOMAIN-SUFFIX,golang.org
+  
+  # > The Economist
+  - DOMAIN-SUFFIX,economist.com
+  - DOMAIN-SUFFIX,static-economist.com
+
+  # > Yahoo
+  - DOMAIN-SUFFIX,yahoo.com
+  - DOMAIN-SUFFIX,yimg.com
+  - DOMAIN,search.yahoo.co.jp
+
+  # Amazon
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,awsstatic.com
+  
+  # Yandex
+  - DOMAIN-SUFFIX,yandex
+  - DOMAIN-SUFFIX,yadi.sk
+  - DOMAIN-SUFFIX,yandex.ru
+  - DOMAIN,disk.yandex.com
+  - DOMAIN-SUFFIX,yandex.com
+  - DOMAIN-SUFFIX,yandex.net
+  
+  - DOMAIN-SUFFIX,yastatic.net
+
