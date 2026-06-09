@@ -5,7 +5,6 @@
 
 payload:
   - DOMAIN-SUFFIX,v2ex.com
-  - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-SUFFIX,medium.com
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,reddit.com
@@ -20,12 +19,11 @@ payload:
   - DOMAIN-SUFFIX,iris.to
   - DOMAIN-SUFFIX,threads.com
   - DOMAIN-SUFFIX,bsky.app
-  - DOMAIN-SUFFIX,cdn.jsdelivr.net
-  - DOMAIN-SUFFIX,jsdelivr.com
   - DOMAIN-SUFFIX,arc.net
   - DOMAIN-SUFFIX,moapp.me
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,gitbook.com
+  - DOMAIN-SUFFIX,greasyfork.org
   
   
   
