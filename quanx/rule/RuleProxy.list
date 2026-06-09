@@ -15,16 +15,14 @@
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,duangks.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,mirrormedia.mg
+DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,i.redd.it
 DOMAIN-SUFFIX,z-lib.fm
 DOMAIN-SUFFIX,usercentrics.eu
 DOMAIN-SUFFIX,prismic.io
-DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,tedcdn.com
 DOMAIN-SUFFIX,ted.com
 DOMAIN-SUFFIX,logseq.com
@@ -32,14 +30,15 @@ DOMAIN-SUFFIX,infosec.exchange
 DOMAIN-SUFFIX,nostrimg.com
 DOMAIN-SUFFIX,nostr.build
 DOMAIN-SUFFIX,iris.to
-DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,moapp.me
 DOMAIN-SUFFIX,gitbook.io
-DOMAIN-SUFFIX,sybo.net
+DOMAIN-SUFFIX,gitbook.com
 
 
 # > 机场
@@ -48,6 +47,8 @@ DOMAIN-SUFFIX,mojie.me
 DOMAIN,xftld.org
 DOMAIN-SUFFIX,clashx.pro
 DOMAIN-SUFFIX,guatizi.com
+DOMAIN-SUFFIX,duangks.com
+DOMAIN-SUFFIX,aijichang.com
 
 # > 学术
 DOMAIN-SUFFIX,openaccess.thecvf.com
@@ -88,6 +89,7 @@ DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN,disk.yandex.com
-DOMAIN-SUFFIX,yandex
+DOMAIN-SUFFIX,yandex.com
+DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,yastatic.net
 
