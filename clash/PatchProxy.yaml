@@ -52,6 +52,7 @@ payload:
   - DOMAIN-SUFFIX,annas-archive.org
   - DOMAIN-SUFFIX,neurips.cc
   - DOMAIN-SUFFIX,openreview.net
+  - DOMAIN-SUFFIX,dl.acm.org
   
   # > Docker
   - DOMAIN,d1q6f0aelx0por.cloudfront.net
