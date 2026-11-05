@@ -1,0 +1,11 @@
+# NAME: PatchDirect 直连补丁
+# AUTHOR: realswx
+# REPO: https://github.com/realswx/privateFile
+# UPDATED: 2026-06-09
+
+payload:
+  - DOMAIN-SUFFIX,gequhai.net
+  - DOMAIN-SUFFIX,izh.followlyrics.com
+  - DOMAIN-SUFFIX,sportsteam368.com
+  
+
